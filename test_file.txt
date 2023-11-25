@@ -1,0 +1,16 @@
+Nama Kkal Harga
+"Jagung" 172 104
+"Kacang Hijau" 69 432
+"Kacang Kedelai" 76 150
+"Kacang Bude" 67 1000
+"Susu Bubuk" 24 200
+"Biji Kecipir" 81 1000
+"Bungkil Kelapa" 74 80
+"Sorgum" 66 100
+"Bungkil Kacang Tanah" 67 48
+"Tepung Ikan" 63 210
+"Gandum" 65 1100
+"Bekatul" 55 80
+"Tepung Gaplek" 73 56
+"Tepung Daun Pepaya" 16 136
+"Dedak" 78 58
